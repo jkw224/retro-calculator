@@ -14,6 +14,7 @@
 		FBAC198E1B99E7EA006AB2C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBAC198C1B99E7EA006AB2C1 /* LaunchScreen.storyboard */; };
 		FBAC19991B99E7EA006AB2C1 /* retro_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBAC19981B99E7EA006AB2C1 /* retro_calculatorTests.swift */; };
 		FBAC19A41B99E7EA006AB2C1 /* retro_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBAC19A31B99E7EA006AB2C1 /* retro_calculatorUITests.swift */; };
+		FBAC19B81B99F91E006AB2C1 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBAC19B71B99F91E006AB2C1 /* Minecraft.ttf */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FBAC199F1B99E7EA006AB2C1 /* retro-calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "retro-calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBAC19A31B99E7EA006AB2C1 /* retro_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = retro_calculatorUITests.swift; sourceTree = "<group>"; };
 		FBAC19A51B99E7EA006AB2C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBAC19B71B99F91E006AB2C1 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		FBAC19821B99E7EA006AB2C1 /* retro-calculator */ = {
 			isa = PBXGroup;
 			children = (
+				FBAC19B71B99F91E006AB2C1 /* Minecraft.ttf */,
 				FBAC19831B99E7EA006AB2C1 /* AppDelegate.swift */,
 				FBAC19851B99E7EA006AB2C1 /* ViewController.swift */,
 				FBAC19871B99E7EA006AB2C1 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				FBAC198E1B99E7EA006AB2C1 /* LaunchScreen.storyboard in Resources */,
 				FBAC198B1B99E7EA006AB2C1 /* Assets.xcassets in Resources */,
+				FBAC19B81B99F91E006AB2C1 /* Minecraft.ttf in Resources */,
 				FBAC19891B99E7EA006AB2C1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
